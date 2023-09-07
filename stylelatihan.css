@@ -1,0 +1,31 @@
+a:link{
+    color: midnightblue;
+}
+
+a:visited{
+    color: green;
+}
+
+a.hover{
+    color: orange;
+}
+
+a:active{
+    color: darkgray;
+}
+
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color: mediumorchid;
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+}
+
+.button:hover {background-color: orangered;}
+
+.button:active {
+    background-color: palevioletred;
+    box-shadow: 0px 5px #666;
+}

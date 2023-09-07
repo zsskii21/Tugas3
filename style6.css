@@ -1,0 +1,19 @@
+h3{
+    color:black;
+}
+
+#judul{
+    color: blue;
+}
+.tengah{
+    align-self: center;
+    color: brown;
+}
+
+h2, h3, h4{
+    color: midnightblue;
+}
+
+h2.tengah{
+    color: palevioletred;
+}
